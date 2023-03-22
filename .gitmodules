@@ -1,0 +1,3 @@
+[submodule "themes/para"]
+	path = themes/para
+	url = https://github.com/N3rd007/parsa-hugo-theme.git
