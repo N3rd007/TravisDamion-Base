@@ -2,9 +2,6 @@
 	path = public
 	url = https://github.com/Travis-Damion/TravisDamion-Public.git
 
-[submodule "themes/para"]
-	path = themes/para
-	url = https://github.com/N3rd007/parsa-hugo-theme.git
 [submodule "themes/parsa"]
 	path = themes/parsa
 	url = https://github.com/Travis-Damion/parsa-hugo-theme.git
